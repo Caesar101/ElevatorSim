@@ -1,6 +1,6 @@
 # Hello Users
 
-# In order to run the Elevator sim you need both files in repo.
+# In order to run the Elevator sim you need both .py files in repo.
 # main.py is the main script which you will run
 # ElevatorClass.py is the file containing the Elevator class which is used in main.py
 
