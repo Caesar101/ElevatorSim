@@ -1,7 +1,7 @@
 // Author: Cesario Garcia
 // Purpose: This class is used to simulate the elevator
 // Includes button pressing, elevator movement, and elevator status
-package ElevatorPack; 
+package ElevatorPackJava; 
 
 public class Elevator { // Elevator class
     //declare variables
