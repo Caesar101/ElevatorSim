@@ -2,7 +2,7 @@
 // Purpose: Simulate operation of Elevator
 // Prerequisites: Elevator.java
 
-package ElevatorPack; 
+package ElevatorPackJava; 
 
 //utilized open source resources
 import java.io.*;
