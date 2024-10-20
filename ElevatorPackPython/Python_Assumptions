@@ -1,0 +1,12 @@
+# Assumptions
+
+# Current Floor is at 0 or ground floor
+# Building has 6 floors total ( -2 -1 0 1 2 3), Negative numbers represent basement floors and positive numbers are floors above ground level
+# Top Floor defined as floor 3, bottom floor defined as -2
+#####
+# Features not included
+
+# Animation using matplotlib
+# Passenger Count
+# Weight Limit
+# User Defining current floor, top floor, bottom floor though can be easily implemented
