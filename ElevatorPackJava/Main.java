@@ -8,9 +8,6 @@ package ElevatorPackJava;
 import java.io.*;
 import java.util.Scanner;
 
-//Author: Cesario Garcia
-//Purpose: Act as main script to run the elevator simulation
-//Prerequisites: Elevator.java
 
 // Elevator Sim
 
@@ -19,7 +16,7 @@ public class Main {
     //System.out.println("Hello world!");
   
 
-    Elevator e = new Elevator();
+    Elevator e = new Elevator(); // create object of elevator
    
 
       //User is notified of open door and floor number in image
