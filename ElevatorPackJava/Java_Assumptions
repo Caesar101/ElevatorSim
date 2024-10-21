@@ -1,0 +1,12 @@
+# Assumptions
+
+# Current Floor is at 1 
+# Building floors are not defined so user can go to any number of levels, negative (basements) or positive (above ground floors)
+# No weight limit
+# One user operating elevator (no multiple destinations in one movement of the elevator)
+#####
+# Features not included
+
+# Passenger Count
+# Weight Limit
+# User Defining current floor prior to simulation
